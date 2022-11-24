@@ -1,0 +1,18 @@
+[
+  {
+    "label": "develop",
+    "value": "develop"
+  },
+  {
+    "label": "feature/adhoc/sofabootImprovementAndReportingLatestDevelop",
+    "value": "feature/adhoc/sofabootImprovementAndReportingLatestDevelop"
+  },
+  {
+    "label": "feature/adhoc/sofabootImprovementAndReporting",
+    "value": "feature/adhoc/sofabootImprovementAndReporting"
+  },
+  {
+    "label": "release/beatlesXwallet",
+    "value": "release/beatlesXwallet"
+  }
+]
