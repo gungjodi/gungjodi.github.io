@@ -1,0 +1,14 @@
+[
+  {
+    "action": "read",
+    "subject": "common"
+  },
+  {
+    "action": "read",
+    "subject": "odSchedule"
+  },
+  {
+    "action": "read",
+    "subject": "beatles"
+  }
+]
