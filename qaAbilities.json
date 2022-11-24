@@ -1,0 +1,10 @@
+[
+  {
+    "action": "read",
+    "subject": "common"
+  },
+  {
+    "action": "read",
+    "subject": "beatles"
+  }
+]
